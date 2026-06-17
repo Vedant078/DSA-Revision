@@ -1,0 +1,13 @@
+# Compiled C++ Executables & Binaries
+*.out
+*.exe
+*.o
+
+# Gemini CLI Local Configs & Keys
+.gemini/
+gemini_config.json
+.env
+*.log
+
+# Mac System Junk
+.DS_Store
